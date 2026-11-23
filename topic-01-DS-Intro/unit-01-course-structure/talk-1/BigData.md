@@ -1,3 +1,2 @@
-#Big Data defined
+# Module structure and content
 
-Introducing Volume, Velocity, Variety, Veracity and Value
