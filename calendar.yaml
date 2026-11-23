@@ -1,0 +1,74 @@
+title: Data Analytics Essentials
+year:  2026
+
+weeks:
+  - date: 2026-09-09
+    week: 1
+    topic: Introduction
+    assessment: ~
+
+  - date: 2026-09-14
+    week: 2
+    topic: Sick Leave
+    assessment: ~
+
+  - date: 2026-09-21
+    week: 3
+    topic: Big Data, CA spec
+    assessment: ~
+
+  - date: 2026-09-28
+    week: 4
+    topic: Data Volume
+    assessment: ~
+
+  - date: 2026-10-05
+    week: 5
+    topic: Data Velocity
+    assessment: ~
+
+  - date: 2026-10-12
+    week: 6
+    topic: Data Velocity
+
+  - date: 2026-10-19
+    week: 7
+    topic: Data Variety
+    assessment: ~
+
+  - date: 2026-10-26
+    week: Midterm
+    topic: Reading Week
+    assessment: ~
+
+  - date: 2026-11-02
+    week: 8
+    topic: Data Veracity
+    assessment: ~
+
+  - date: 2026-11-09
+    week: 9
+    topic: Data Veracity
+    assessment:
+      name: Assignment 1
+      due: 2026-11-12 13:15
+      percentage: 30
+      submission: Theory test in single Lab, MCQ questions and some written answers required
+
+  - date: 2026-11-16
+    week: 10
+    topic: Data Value
+    assessment: ~
+
+  - date: 2026-11-23
+    week: 11
+    topic: Data Value
+    assessment:
+      name: Assignment 2
+      due: 2026-11-29
+      percentage: 70
+      submission: Data Analytics CA
+
+  - date: 2026-11-30
+    week: 12
+    topic: Interviews on CA

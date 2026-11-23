@@ -1,0 +1,21 @@
+#zoom           : https://wit-ie.zoom.us/j/99560251510?pwd=dTN1ZE9Xd2hqMk1oM1FKNGdUSWoyQT09
+#slack          : https://business-analytics-1.slack.com
+moodle         : https://moodle.wit.ie/course/view.php?id=192248
+#youtube        : https://www.youtube.com/playlist?list=PLCuLauLBSMCrSXgmrDclRmEvHZQyQF2YU
+credits        : Dr. Brenda Sexton, SETU Computing
+#auth          : 3
+ignorepin      : 1221
+ignore     :
+ #- topic-00-assignment
+ #- topic-01-Business-Analytics-Intro
+ #- topic-02-Big-Data
+ #- topic-03-Volume
+ #- topic-04-Velocity
+ #- topic-05-Velocity
+ #- topic-06-Variety
+ #- topic-07-Veracity
+ #- topic-08-Veracity
+ #- topic-09-Value
+ - topic-10-Value
+
+
