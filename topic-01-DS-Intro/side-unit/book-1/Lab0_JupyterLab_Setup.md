@@ -1,0 +1,49 @@
+# Lab 0: Installing Anaconda and JupyterLab
+
+## Purpose
+
+Before completing Lab 1, install Anaconda and verify that JupyterLab is working correctly.
+
+## Windows Installation
+
+1. Download Anaconda Individual Edition from:
+   https://www.anaconda.com/download
+2. Run the Windows 64-bit installer.
+3. Accept the default settings.
+4. Launch Anaconda Navigator.
+5. Click **Launch** under JupyterLab.
+
+## macOS Installation
+
+1. Download the macOS installer from:
+   https://www.anaconda.com/download
+2. Run the installer package.
+3. Launch Anaconda Navigator.
+4. Start JupyterLab.
+
+Alternatively, open Terminal and run:
+
+```bash
+jupyter lab
+```
+
+## Verify Installation
+
+Create a new notebook and run:
+
+```python
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+print("Environment Ready")
+```
+
+## Starting Lab 1
+
+Once JupyterLab is working, open:
+
+-[Lab01](archives/lab1.ipynb)
+
+Place the notebook, dataset, and codebook in the same folder before starting Lab 1.
