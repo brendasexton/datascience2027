@@ -1,3 +1,3 @@
-Data Scienc in Practice
+Data Science in Practice
 
 
