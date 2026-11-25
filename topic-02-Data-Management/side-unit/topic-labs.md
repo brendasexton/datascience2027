@@ -1,1 +1,1 @@
-# Labs for topic 1
+# Labs for topic 2
