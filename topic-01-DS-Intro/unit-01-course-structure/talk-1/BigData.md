@@ -1,2 +1,0 @@
-# Module structure and content
-
